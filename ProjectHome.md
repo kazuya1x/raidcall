@@ -1,0 +1,1 @@
+RaidCall is a World of Warcraft addon that allows raid leaders to keep an accurate record of raid member attendance automatically.
